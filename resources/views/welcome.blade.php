@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>SOFTWARE18</title>
+        <title>RPL1</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                ようこそ
+                Hello
                 </div>
 
                 <div class="links">
@@ -91,7 +91,8 @@
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>-->
                     <a href="{{ url ('home') }}">home</a>
-                    <a href="https://github.com/ririmrcl">GitHub</a> 
+                    <a href="https://github.com/kamelia2003">GitHub</a> 
+                    <a href="https://instagram.com/kameliaputerii">Instagram</a>
                 </div> 
             </div>
         </div>
